@@ -16,8 +16,7 @@ Welcome to my ASP.NET Core Dynamic Admin Panel Portfolio Project! This project w
 ## 🛠️ Technologies & Libraries Used
 
 - **ASP.NET Core (6.0)**  
-- **Microsoft.EntityFrameworkCore (6.0.3)**  
-- **Microsoft.EntityFrameworkCore.PostgreSQL (6.0.3)**  
+- **Microsoft.EntityFrameworkCore (6.0.3)**    
 - **Layout Control**
 - **Controller Structure**
 - **View Components & Partial Views**
