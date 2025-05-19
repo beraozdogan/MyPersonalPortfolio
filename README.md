@@ -1,6 +1,6 @@
 # ASP.NET Core Dynamic Admin Panel Portfolio Project
 
-Welcome to my ASP.NET Core Dynamic Admin Panel Portfolio Project! This project was developed as part of a Udemy course by **Murat Yücedağ**. It provides a dynamic admin panel with essential features for managing a portfolio website. The project serves as a great starting point for anyone looking to learn ASP.NET Core and implement dynamic web applications.
+Welcome to my ASP.NET Core Dynamic Admin Panel Portfolio Project! It provides a dynamic admin panel with essential features for managing a portfolio website. The project serves as a great starting point for anyone looking to learn ASP.NET Core and implement dynamic web applications.
 
 ---
 
